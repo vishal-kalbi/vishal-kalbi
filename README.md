@@ -91,8 +91,8 @@ Open Source: Developer Tooling, Community Contributions, Documentation
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-kalbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kalbi&theme=tokyonight&hide_border=true" />
 
 </div>
 
