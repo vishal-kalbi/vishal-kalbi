@@ -56,22 +56,4 @@ I enjoy working on scalable systems, developer tools, and production-grade softw
 - Open source contributions & developer tooling  
 
 ---
-
-## Open Source
-
-Contributor to open-source projects including:
-
-- **gitree** — CLI tool for project structure analysis and export
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true)
-
----
-
-## Contact
-
-- LinkedIn: YOUR_LINKEDIN_URL  
-- Email: YOUR_EMAIL
+- Email: vishalch445566@gmail.com
