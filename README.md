@@ -4,6 +4,9 @@
 
 **Software Engineer · Backend & Cloud · Open Source Contributor**
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalch445566@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+916377579795)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,10 +20,22 @@ Focused on scalable systems, developer tools, and production-grade software.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🚀 Live Projects
+
+<div align="center">
+
+[![FlexPricing](https://img.shields.io/badge/🔗_FlexPricing-Visit_Live-6366F1?style=for-the-badge)](https://flexpricing.com)
+[![Rebaid](https://img.shields.io/badge/🔗_Rebaid-Visit_Live-EC4899?style=for-the-badge)](https://rebaid.com)
+[![Airssist](https://img.shields.io/badge/🔗_Airssist-Visit_Live-0EA5E9?style=for-the-badge)](https://airssist.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>Languages & Frameworks</b></summary>
+<summary><b>💻 Languages & Frameworks</b></summary>
 <br>
 <div align="center">
 
@@ -36,7 +51,7 @@ Focused on scalable systems, developer tools, and production-grade software.
 </details>
 
 <details open>
-<summary><b>Frontend</b></summary>
+<summary><b>🎨 Frontend</b></summary>
 <br>
 <div align="center">
 
@@ -47,7 +62,7 @@ Focused on scalable systems, developer tools, and production-grade software.
 </details>
 
 <details open>
-<summary><b>Databases & Data</b></summary>
+<summary><b>🗄️ Databases & Data</b></summary>
 <br>
 <div align="center">
 
@@ -61,7 +76,7 @@ Focused on scalable systems, developer tools, and production-grade software.
 </details>
 
 <details open>
-<summary><b>AI & LLM Systems</b></summary>
+<summary><b>🤖 AI & LLM Systems</b></summary>
 <br>
 <div align="center">
 
@@ -73,7 +88,7 @@ Focused on scalable systems, developer tools, and production-grade software.
 </details>
 
 <details open>
-<summary><b>Cloud & DevOps</b></summary>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 <br>
 <div align="center">
 
@@ -94,33 +109,39 @@ Focused on scalable systems, developer tools, and production-grade software.
 ## 💼 Areas of Work
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
-- Backend architecture & API development  
-- AI-powered applications (LangChain, LlamaIndex, RAG systems)  
-- Data-intensive applications & pipelines  
+```yaml
+Backend: Architecture & API Development, RESTful Services, Microservices
+AI/ML: LangChain, LlamaIndex, RAG Pipelines, AI-powered Applications
+Data: Data-intensive Applications, ETL Pipelines, Database Optimization
+Cloud: AWS, Azure, GCP Infrastructure, Production Deployments
+DevOps: CI/CD Automation, Docker Containerization, GitHub Actions
+Open Source: Developer Tooling, Community Contributions, Documentation
+```
 
-</td>
-<td width="50%" valign="top">
-
-- Cloud infrastructure & production deployments  
-- CI/CD automation and containerization  
-- Open source contributions & developer tooling  
-
-</td>
-</tr>
-</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📬 Contact
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📬 Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-vishalch445566@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalch445566@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91_6377579795-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916377579795)
+
+**Open to collaborations, freelance projects, and exciting opportunities!**
 
 </div>
 
