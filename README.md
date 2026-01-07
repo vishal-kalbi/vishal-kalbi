@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Vishal+Choudhary;Software+Engineer;Backend+%26+Cloud+Expert" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=999999&color=6366F1&center=true&vCenter=true&width=435&lines=Vishal+Choudhary" alt="Typing SVG" />
 
 **Software Engineer · Backend & Cloud · Open Source Contributor**
 
@@ -20,7 +20,7 @@ Focused on scalable systems, developer tools, and production-grade software.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Live Projects
+## Live Projects
 
 <div align="center">
 
@@ -32,11 +32,8 @@ Focused on scalable systems, developer tools, and production-grade software.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<details open>
-<summary><b>💻 Languages & Frameworks</b></summary>
-<br>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,24 +44,8 @@ Focused on scalable systems, developer tools, and production-grade software.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 
-</div>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br>
-<div align="center">
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Data</b></summary>
-<br>
-<div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,25 +53,9 @@ Focused on scalable systems, developer tools, and production-grade software.
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
 
-</div>
-</details>
-
-<details open>
-<summary><b>🤖 AI & LLM Systems</b></summary>
-<br>
-<div align="center">
-
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-8B5CF6?style=for-the-badge&logo=ai&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-<div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -102,11 +67,10 @@ Focused on scalable systems, developer tools, and production-grade software.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 </div>
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Areas of Work
+## Areas of Work
 
 <div align="center">
 
@@ -123,7 +87,7 @@ Open Source: Developer Tooling, Community Contributions, Documentation
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -134,7 +98,7 @@ Open Source: Developer Tooling, Community Contributions, Documentation
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📬 Let's Connect
+## Contact
 
 <div align="center">
 
